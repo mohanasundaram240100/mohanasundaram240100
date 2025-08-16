@@ -1,4 +1,4 @@
-# Hi I'm Mohanasundaram 👋
+# I'm Mohanasundaram 👋
 
 -Automation Test Engineer with 3.5+ years of experience in Automation
 Testing on Web-based / Client-server applications and systems in Telecommunication industries.
