@@ -1,7 +1,7 @@
 # I'm Mohanasundaram 👋
 
 -QA Automation Test Engineer with 4.4+ years of experience in Automation
-Testing on Web-based / Client-server applications and systems in Telecommunication industries.
+Testing on Web-based / Client-server applications and systems in Banking industries.
 
 -Proficient in testing on Client/Server and Web-Based and Mobile Applications using Selenium
 WebDriver with Java
@@ -10,7 +10,7 @@ WebDriver with Java
 -Experience in automation frameworks such as Data Driven, POM frameworks.
 
 -Strong knowledge in Software Development Life Cycle
-(SDLC), Software Testing Life Cycle (STLC) and involved in various stages implementing waterfall methodologies using JIRA and YouTrack
+(SDLC), Software Testing Life Cycle (STLC) and involved in various stages implementing Agile(scrum) methodologies using JIRA and YouTrack
 
 -Performed defect reporting and bug tracking using JIRA and YouTrack. Involved in Bug Life Cycle (BLC).
 -Expertise in performing Specification based testing, Functional testing, Regression Testing, System Integration Testing, Usability, GUl, E2E testing.
